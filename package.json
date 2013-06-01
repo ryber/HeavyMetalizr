@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/fengmk2/HeavyMetalizr.git"
+    "url": "git://github.com/ryber/HeavyMetalizr.git"
   },
   "keywords": [
     "HeavyMetalizr"
@@ -34,6 +34,6 @@
   "engines": {
     "node": ">= 0.8.0"
   },
-  "author": "fengmk2 <fengmk2@gmail.com>",
+  "author": "Ryan Bergman <ryan.bergman@gmail.com>",
   "license": "MIT"
 }
