@@ -1,7 +1,7 @@
 {
-  "name": "HeavyMetalizr",
+  "name": "heavymetalizr",
   "version": "0.0.1",
-  "description": "HeavyMetalizr",
+  "description": "A package for making text awesome.",
   "main": "./lib/HeavyMetalizr.js",
   "scripts": {
     "test": "make test-all",
