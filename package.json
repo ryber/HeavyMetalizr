@@ -2,7 +2,7 @@
   "name": "HeavyMetalizr",
   "version": "0.0.1",
   "description": "HeavyMetalizr",
-  "main": "index.js",
+  "main": "./lib/HeavyMetalizr.js",
   "scripts": {
     "test": "make test-all",
     "blanket": { 
