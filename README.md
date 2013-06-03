@@ -16,5 +16,5 @@ $ npm install HeavyMetalizr
 var HeavyMetalizr = require('HeavyMetalizr');
 
 var result = HeavyMetalizr("Blue Oyster Cult") 
-// result will be &#223;l&#252;&#235; &#214;yst&#235;r C&#252;lt
+// result will be ßlüë Öystër Cült
 ```
